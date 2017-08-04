@@ -1,0 +1,17 @@
+{
+  "name": "gulp-example",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Emre Vatansever <vatanseveremre90@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
